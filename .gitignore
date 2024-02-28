@@ -1,6 +1,7 @@
 .DS_Store
 .clj-kondo
 .cpcache
+.lsp
 .portal
 target/
 target-linux/
